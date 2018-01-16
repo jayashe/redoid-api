@@ -1,0 +1,19 @@
+{
+  "name": "redoid-api",
+  "version": "1.0.0",
+  "description": "Api for using redoid on raspberry pi",
+  "main": "api.js",
+  "scripts": {
+    "test": "node api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgashe/redoid-api.git"
+  },
+  "author": "JAshe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgashe/redoid-api/issues"
+  },
+  "homepage": "https://github.com/jgashe/redoid-api#readme"
+}
